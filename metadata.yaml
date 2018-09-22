@@ -1,6 +1,9 @@
 _repo: Syystahden-alla-Kulkijan-kertomus_55138
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Under høststjærnen. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hamsun, Knut
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2376
     wikipedia: http://en.wikipedia.org/wiki/Knut_Hamsun
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55138#Syystahden-alla-Kulkijan-kertomus
 gutenberg_issued: '2017-07-17'
 gutenberg_type: Text
 identifiers:
