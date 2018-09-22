@@ -1,0 +1,32 @@
+_repo: Syystahden-alla-Kulkijan-kertomus_55138
+_version: 0.0.1
+alternative_title: Under høststjærnen. Finnish
+creator:
+  author:
+    agent_name: Hamsun, Knut
+    aliases:
+    - Pedersen, Knut
+    - Hamsund, Knut Pedersen
+    - Thode, Knut
+    - Gamsun, Knut
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '2376'
+    url: http://www.gutenberg.org/2009/agents/2376
+    wikipedia: http://en.wikipedia.org/wiki/Knut_Hamsun
+description: ''
+gutenberg_issued: '2017-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55138'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Norwegian fiction -- Translations into Finnish'
+- !lcsh 'Norway -- Fiction'
+- GITenberg
+title: 'Syystähden alla: Kulkijan kertomus'
+url: http://www.gutenberg.org/ebooks/55138
